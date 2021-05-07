@@ -1,0 +1,3 @@
+[submodule ".\\proyecto\\"]
+	path = .\\proyecto\\
+	url = https://github.com/cmejia99/proyecto.git
