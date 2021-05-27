@@ -1,0 +1,5 @@
+from sklearn.decomposition import PCA
+# Make an instance of the Model
+pca = PCA(.95)
+
+Selecciona el número de componentes donde la información del data se guarde al .95
